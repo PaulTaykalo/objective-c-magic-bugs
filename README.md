@@ -12,13 +12,13 @@ Some strange things of this project:
 * It won't crash if NSLog call will be commented out  
   
 ## Goals  
-0. Code should not crash (Easiest one, just uncommend NSLog call).  
-1. Find "problematic" method(s)  
-2. Does uncommenting NSLog REALLY fix main problem?  
-4. What is the reason of crash?  
-8. Find why it isn't crashing on the Device  
-16. Why NSLog is able to fix the problem?  
-32. Reproduce this bug on other Base SDK's / iOS Simulator versions
+* 0. Code should not crash (Easiest one, just uncommend NSLog call).  
+* 1. Find "problematic" method(s)  
+* 2. Does uncommenting NSLog REALLY fix main problem?  
+* 4. What is the reason of crash?  
+* 8. Find why it isn't crashing on the Device  
+* 16. Why NSLog is able to fix the problem?  
+* 32. Reproduce this bug on other Base SDK's / iOS Simulator versions
 
 ##Outro:  
 Goals from 0 to 1 are pretty easy to achive  
