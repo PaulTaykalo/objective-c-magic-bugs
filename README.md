@@ -1,10 +1,10 @@
 objective-c-magic-bugs
 ======================
-#NSLog Magic  
-##Intro:  
+# NSLog Magic  
+## Intro:  
 Original project had around 40K lines of code, and it was really painful to find the reason of this bug  .
 
-##Description:  
+## Description:  
 You have very small project, with not so much amount lines of code, and it crashes "sometimes". 
 Some strange things of this project:  
 * It crashes only when it's being run on iOS Simulator  
